@@ -12,5 +12,5 @@ echo "The product of ${a} and ${b} is ${a*b}"
 }
 def div(a,b)
 {
-echo "The quotent of ${a} and ${b} is ${a+b}"
+echo "The quotient of ${a} and ${b} is ${a/b}"
 }
